@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  Havadurumu-1
+//  Swift Denemesi
 //
 //  Created by muhammed zaim on 21.07.2016.
 //  Copyright © 2016 muhammed zaim. All rights reserved.

@@ -1,6 +1,6 @@
 //
-//  Havadurumu_1Tests.swift
-//  Havadurumu-1Tests
+//  Swift DenemesiTests.swift
+//  Swift DenemesiTests
 //
 //  Created by muhammed zaim on 21.07.2016.
 //  Copyright © 2016 muhammed zaim. All rights reserved.
